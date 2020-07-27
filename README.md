@@ -1,5 +1,4 @@
-For Detailed Description please visit : https://medium.com/@goyal.shubhangi/an-overview-anomaly-detection-304deaa199bb - automatic!
-[Medium Link](https://medium.com/@goyal.shubhangi/an-overview-anomaly-detection-304deaa199bb)
+For Detailed Description please visit : https://medium.com/@goyal.shubhangi/an-overview-anomaly-detection-304deaa199bb : [Overview of Anomaly Detection](https://medium.com/@goyal.shubhangi/an-overview-anomaly-detection-304deaa199bb)
 
 # Anomaly Detection
 
