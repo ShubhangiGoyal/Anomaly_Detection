@@ -1,4 +1,5 @@
-For Detailed Description please visit :
+For Detailed Description please visit --
+
 [An Overview : Anomaly Detection](https://medium.com/@goyal.shubhangi/an-overview-anomaly-detection-304deaa199bb) : https://medium.com/@goyal.shubhangi/an-overview-anomaly-detection-304deaa199bb 
 
 # Anomaly Detection
